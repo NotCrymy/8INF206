@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080.0" height="1140.0">
+<polyline points="500.0,50.0 500.0,150.0" style="stroke:rgb(139,182,83);stroke-width:2" fill="none"/>
+<polyline points="500.0,50.0 350.0,150.0" style="stroke:rgb(139,182,83);stroke-width:2" fill="none"/>
+<polyline points="500.0,150.0 500.0,250.0" style="stroke:rgb(231,66,68);stroke-width:2" fill="none"/>
+<polyline points="350.0,150.0 200.0,250.0" style="stroke:rgb(194,193,160);stroke-width:2" fill="none"/>
+<polyline points="350.0,150.0 500.0,250.0" style="stroke:rgb(194,193,160);stroke-width:2" fill="none"/>
+<polyline points="500.0,150.0 650.0,250.0" style="stroke:rgb(231,66,68);stroke-width:2" fill="none"/>
+<polyline points="200.0,250.0 50.0,350.0" style="stroke:rgb(85,228,164);stroke-width:2" fill="none"/>
+<polyline points="200.0,250.0 200.0,350.0" style="stroke:rgb(85,228,164);stroke-width:2" fill="none"/>
+<polyline points="500.0,250.0 200.0,350.0" style="stroke:rgb(63,66,254);stroke-width:2" fill="none"/>
+<polyline points="500.0,250.0 650.0,350.0" style="stroke:rgb(63,66,254);stroke-width:2" fill="none"/>
+<polyline points="650.0,250.0 650.0,350.0" style="stroke:rgb(102,124,197);stroke-width:2" fill="none"/>
+<polyline points="500.0,250.0 500.0,350.0" style="stroke:rgb(63,66,254);stroke-width:2" fill="none"/>
+<polyline points="500.0,350.0 575.0,450.0" style="stroke:rgb(63,66,254);stroke-width:2" fill="none"/>
+<polyline points="50.0,350.0 575.0,450.0" style="stroke:rgb(181,186,165);stroke-width:2" fill="none"/>
+<polyline points="200.0,350.0 575.0,450.0" style="stroke:rgb(149,59,239);stroke-width:2" fill="none"/>
+<polyline points="650.0,350.0 575.0,450.0" style="stroke:rgb(243,207,107);stroke-width:2" fill="none"/>
+<polyline points="50.0,350.0 125.0,450.0" style="stroke:rgb(181,186,165);stroke-width:2" fill="none"/>
+<polyline points="125.0,450.0 425.0,550.0" style="stroke:rgb(181,186,165);stroke-width:2" fill="none"/>
+<polyline points="650.0,350.0 725.0,450.0" style="stroke:rgb(243,207,107);stroke-width:2" fill="none"/>
+<polyline points="725.0,450.0 575.0,550.0" style="stroke:rgb(243,207,107);stroke-width:2" fill="none"/>
+<polyline points="575.0,450.0 425.0,550.0" style="stroke:rgb(225,255,254);stroke-width:2" fill="none"/>
+<polyline points="575.0,450.0 575.0,550.0" style="stroke:rgb(225,255,254);stroke-width:2" fill="none"/>
+<polyline points="425.0,550.0 425.0,650.0" style="stroke:rgb(87,194,63);stroke-width:2" fill="none"/>
+<polyline points="575.0,550.0 425.0,650.0" style="stroke:rgb(130,61,211);stroke-width:2" fill="none"/>
+<polyline points="575.0,550.0 575.0,650.0" style="stroke:rgb(130,61,211);stroke-width:2" fill="none"/>
+<polyline points="425.0,650.0 425.0,750.0" style="stroke:rgb(120,203,56);stroke-width:2" fill="none"/>
+<polyline points="425.0,650.0 575.0,750.0" style="stroke:rgb(120,203,56);stroke-width:2" fill="none"/>
+<polyline points="575.0,650.0 575.0,750.0" style="stroke:rgb(176,102,217);stroke-width:2" fill="none"/>
+<polyline points="425.0,750.0 500.0,850.0" style="stroke:rgb(127,155,103);stroke-width:2" fill="none"/>
+<polyline points="575.0,750.0 500.0,850.0" style="stroke:rgb(249,199,190);stroke-width:2" fill="none"/>
+<polyline points="575.0,750.0 650.0,850.0" style="stroke:rgb(249,199,190);stroke-width:2" fill="none"/>
+<polyline points="500.0,850.0 425.0,950.0" style="stroke:rgb(181,142,124);stroke-width:2" fill="none"/>
+<polyline points="650.0,850.0 425.0,950.0" style="stroke:rgb(211,111,226);stroke-width:2" fill="none"/>
+<polyline points="425.0,950.0 500.0,1050.0" style="stroke:rgb(250,247,221);stroke-width:2" fill="none"/>
+<polyline points="500.0,850.0 575.0,950.0" style="stroke:rgb(181,142,124);stroke-width:2" fill="none"/>
+<polyline points="575.0,950.0 500.0,1050.0" style="stroke:rgb(181,142,124);stroke-width:2" fill="none"/>
+<polyline points="500.0,50.0 650.0,150.0" style="stroke:rgb(139,182,83);stroke-width:2" fill="none"/>
+<polyline points="650.0,150.0 800.0,250.0" style="stroke:rgb(139,182,83);stroke-width:2" fill="none"/>
+<polyline points="800.0,250.0 950.0,350.0" style="stroke:rgb(139,182,83);stroke-width:2" fill="none"/>
+<polyline points="950.0,350.0 575.0,450.0" style="stroke:rgb(139,182,83);stroke-width:2" fill="none"/>
+<polyline points="350.0,150.0 350.0,250.0" style="stroke:rgb(194,193,160);stroke-width:2" fill="none"/>
+<polyline points="350.0,250.0 350.0,350.0" style="stroke:rgb(194,193,160);stroke-width:2" fill="none"/>
+<polyline points="350.0,350.0 425.0,450.0" style="stroke:rgb(194,193,160);stroke-width:2" fill="none"/>
+<polyline points="425.0,450.0 425.0,550.0" style="stroke:rgb(194,193,160);stroke-width:2" fill="none"/>
+<polyline points="650.0,250.0 800.0,350.0" style="stroke:rgb(102,124,197);stroke-width:2" fill="none"/>
+<polyline points="800.0,350.0 875.0,450.0" style="stroke:rgb(102,124,197);stroke-width:2" fill="none"/>
+<polyline points="875.0,450.0 725.0,550.0" style="stroke:rgb(102,124,197);stroke-width:2" fill="none"/>
+<polyline points="725.0,550.0 425.0,650.0" style="stroke:rgb(102,124,197);stroke-width:2" fill="none"/>
+<polyline points="200.0,350.0 275.0,450.0" style="stroke:rgb(149,59,239);stroke-width:2" fill="none"/>
+<polyline points="275.0,450.0 275.0,550.0" style="stroke:rgb(149,59,239);stroke-width:2" fill="none"/>
+<polyline points="275.0,550.0 425.0,650.0" style="stroke:rgb(149,59,239);stroke-width:2" fill="none"/>
+<polyline points="425.0,750.0 350.0,850.0" style="stroke:rgb(127,155,103);stroke-width:2" fill="none"/>
+<polyline points="350.0,850.0 425.0,950.0" style="stroke:rgb(127,155,103);stroke-width:2" fill="none"/>
+<rect x="535.0" y="730.0" width="80" height="40" fill="white" stroke="black"/><text x="540.0" y="750.0" fill="black" font-size="10">Deploy prod</text>
+<rect x="160.0" y="330.0" width="80" height="40" fill="white" stroke="black"/><text x="165.0" y="350.0" fill="black" font-size="10">Feature B</text>
+<rect x="460.0" y="30.0" width="80" height="40" fill="white" stroke="black"/><text x="465.0" y="50.0" fill="black" font-size="10">Start</text>
+<rect x="460.0" y="830.0" width="80" height="40" fill="white" stroke="black"/><text x="465.0" y="850.0" fill="black" font-size="10">Monitoring</text>
+<rect x="160.0" y="230.0" width="80" height="40" fill="white" stroke="black"/><text x="165.0" y="250.0" fill="black" font-size="10">Clean data</text>
+<rect x="535.0" y="530.0" width="80" height="40" fill="white" stroke="black"/><text x="540.0" y="550.0" fill="black" font-size="10">Train backup</text>
+<rect x="535.0" y="430.0" width="80" height="40" fill="white" stroke="black"/><text x="540.0" y="450.0" fill="black" font-size="10">Merge features</text>
+<rect x="385.0" y="630.0" width="80" height="40" fill="white" stroke="black"/><text x="390.0" y="650.0" fill="black" font-size="10">Evaluate</text>
+<rect x="310.0" y="130.0" width="80" height="40" fill="white" stroke="black"/><text x="315.0" y="150.0" fill="black" font-size="10">Load data</text>
+<rect x="610.0" y="830.0" width="80" height="40" fill="white" stroke="black"/><text x="615.0" y="850.0" fill="black" font-size="10">Alerts</text>
+<rect x="10.0" y="330.0" width="80" height="40" fill="white" stroke="black"/><text x="15.0" y="350.0" fill="black" font-size="10">Feature A</text>
+<rect x="610.0" y="230.0" width="80" height="40" fill="white" stroke="black"/><text x="615.0" y="250.0" fill="black" font-size="10">Normalize</text>
+<rect x="460.0" y="1030.0" width="80" height="40" fill="white" stroke="black"/><text x="465.0" y="1050.0" fill="black" font-size="10">End</text>
+<rect x="460.0" y="130.0" width="80" height="40" fill="white" stroke="black"/><text x="465.0" y="150.0" fill="black" font-size="10">Fetch API</text>
+<rect x="610.0" y="330.0" width="80" height="40" fill="white" stroke="black"/><text x="615.0" y="350.0" fill="black" font-size="10">Feature C</text>
+<rect x="385.0" y="530.0" width="80" height="40" fill="white" stroke="black"/><text x="390.0" y="550.0" fill="black" font-size="10">Train model</text>
+<rect x="385.0" y="930.0" width="80" height="40" fill="white" stroke="black"/><text x="390.0" y="950.0" fill="black" font-size="10">Reporting</text>
+<rect x="460.0" y="230.0" width="80" height="40" fill="white" stroke="black"/><text x="465.0" y="250.0" fill="black" font-size="10">Validate</text>
+<rect x="385.0" y="730.0" width="80" height="40" fill="white" stroke="black"/><text x="390.0" y="750.0" fill="black" font-size="10">Deploy staging</text>
+<rect x="535.0" y="630.0" width="80" height="40" fill="white" stroke="black"/><text x="540.0" y="650.0" fill="black" font-size="10">Metrics</text>
+</svg>

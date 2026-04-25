@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    "test",
+    "test2",
+    "test3",
+    "start point",
+    "end point",
+    "pretest phase",
+    "ending test phase",
+    "ft1",
+    "ft2",
+    "merge feat"
+  ],
+  "edges": [
+    [
+      3,
+      5
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      4
+    ]
+  ]
+}
