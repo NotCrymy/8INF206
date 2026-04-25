@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330.0" height="1140.0">
+<polyline points="125.0,50.0 50.0,150.0" style="stroke:rgb(101,106,76);stroke-width:2" fill="none"/>
+<polyline points="125.0,50.0 200.0,150.0" style="stroke:rgb(101,106,76);stroke-width:2" fill="none"/>
+<polyline points="50.0,150.0 125.0,250.0" style="stroke:rgb(103,199,202);stroke-width:2" fill="none"/>
+<polyline points="200.0,150.0 125.0,250.0" style="stroke:rgb(70,206,183);stroke-width:2" fill="none"/>
+<polyline points="125.0,250.0 125.0,350.0" style="stroke:rgb(94,84,226);stroke-width:2" fill="none"/>
+<polyline points="125.0,350.0 50.0,450.0" style="stroke:rgb(224,140,100);stroke-width:2" fill="none"/>
+<polyline points="125.0,350.0 200.0,450.0" style="stroke:rgb(224,140,100);stroke-width:2" fill="none"/>
+<polyline points="50.0,450.0 125.0,550.0" style="stroke:rgb(132,110,156);stroke-width:2" fill="none"/>
+<polyline points="200.0,450.0 125.0,550.0" style="stroke:rgb(138,247,219);stroke-width:2" fill="none"/>
+<polyline points="125.0,550.0 50.0,650.0" style="stroke:rgb(156,133,154);stroke-width:2" fill="none"/>
+<polyline points="125.0,550.0 200.0,650.0" style="stroke:rgb(156,133,154);stroke-width:2" fill="none"/>
+<polyline points="50.0,650.0 125.0,750.0" style="stroke:rgb(166,134,84);stroke-width:2" fill="none"/>
+<polyline points="200.0,650.0 125.0,750.0" style="stroke:rgb(83,208,180);stroke-width:2" fill="none"/>
+<polyline points="125.0,750.0 125.0,850.0" style="stroke:rgb(118,179,132);stroke-width:2" fill="none"/>
+<polyline points="125.0,850.0 125.0,950.0" style="stroke:rgb(106,121,253);stroke-width:2" fill="none"/>
+<polyline points="125.0,950.0 125.0,1050.0" style="stroke:rgb(62,241,130);stroke-width:2" fill="none"/>
+<rect x="85.0" y="30.0" width="80" height="40" fill="white" stroke="black"/><text x="90.0" y="50.0" fill="black" font-size="10">Start</text>
+<rect x="10.0" y="130.0" width="80" height="40" fill="white" stroke="black"/><text x="15.0" y="150.0" fill="black" font-size="10">Ingest</text>
+<rect x="160.0" y="130.0" width="80" height="40" fill="white" stroke="black"/><text x="165.0" y="150.0" fill="black" font-size="10">API</text>
+<rect x="85.0" y="230.0" width="80" height="40" fill="white" stroke="black"/><text x="90.0" y="250.0" fill="black" font-size="10">Clean</text>
+<rect x="85.0" y="330.0" width="80" height="40" fill="white" stroke="black"/><text x="90.0" y="350.0" fill="black" font-size="10">Normalize</text>
+<rect x="10.0" y="430.0" width="80" height="40" fill="white" stroke="black"/><text x="15.0" y="450.0" fill="black" font-size="10">Feature A</text>
+<rect x="160.0" y="430.0" width="80" height="40" fill="white" stroke="black"/><text x="165.0" y="450.0" fill="black" font-size="10">Feature B</text>
+<rect x="85.0" y="530.0" width="80" height="40" fill="white" stroke="black"/><text x="90.0" y="550.0" fill="black" font-size="10">Merge</text>
+<rect x="10.0" y="630.0" width="80" height="40" fill="white" stroke="black"/><text x="15.0" y="650.0" fill="black" font-size="10">Train</text>
+<rect x="160.0" y="630.0" width="80" height="40" fill="white" stroke="black"/><text x="165.0" y="650.0" fill="black" font-size="10">Backup Train</text>
+<rect x="85.0" y="730.0" width="80" height="40" fill="white" stroke="black"/><text x="90.0" y="750.0" fill="black" font-size="10">Evaluate</text>
+<rect x="85.0" y="830.0" width="80" height="40" fill="white" stroke="black"/><text x="90.0" y="850.0" fill="black" font-size="10">Deploy</text>
+<rect x="85.0" y="930.0" width="80" height="40" fill="white" stroke="black"/><text x="90.0" y="950.0" fill="black" font-size="10">Monitor</text>
+<rect x="85.0" y="1030.0" width="80" height="40" fill="white" stroke="black"/><text x="90.0" y="1050.0" fill="black" font-size="10">End</text>
+</svg>
