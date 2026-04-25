@@ -1,3 +1,5 @@
+#![allow(unsafe_op_in_unsafe_fn)] // allowing unsafe operations in unsafe functions, which is masking warnings for FFI (Foreign Function Interface) with Python
+
 use crate::core::layout_result::LayoutResult;
 use crate::core::graph::Graph;
 
@@ -28,10 +30,10 @@ pub struct LayoutDTO {
 }
 
 #[pyfunction]
-pub fn compute_layout_dto() -> PyResult<LayoutDTO> {
+pub fn compute_layout_dto(file_path: String) -> PyResult<LayoutDTO> {
     let mut graph = Graph::new();
 
-    let data = std::fs::read_to_string("graphs/graph.json")
+    let data = std::fs::read_to_string(&file_path)
         .expect("Unable to read file");
     
     let graph_from_json: GraphFromJson = 

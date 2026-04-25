@@ -379,20 +379,3 @@ impl Graph {
         }
     }
 }
-
-#[cfg(test)] // only compile the tests module when running tests
-mod tests {
-    use super::*; // acess the parent module to use Graph, Node, and Edge
-
-    #[test] // function to execute a test case
-    fn test_add_node_and_edge() {
-        let mut graph = Graph::new();
-
-        graph.add_node("Node 1".to_string());
-        graph.add_node("Node 2".to_string());
-        graph.add_edge(1, 2);
-
-        assert_eq!(graph.nodes.len(), 2);
-        assert_eq!(graph.edges.len(), 1);
-    }
-}

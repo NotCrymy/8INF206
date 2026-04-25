@@ -9,8 +9,8 @@ def compute_layout(result):
         exit(1)
     else:
         print("Layout computed successfully")
-        print(f"{result.nodes_positions}""...")  # print only the first 10 nodes for brevity
-        print(f"{result.edges_routes}""...")  # print only the first 10 edges for brevity
+        print(f"{result.nodes_positions}")
+        print(f"{result.edges_routes}")
 
 def orientation(p, q, r):
     val = (q[1] - p[1]) * (r[0] - q[0]) - (q[0] - p[0]) * (r[1] - q[1])
@@ -143,10 +143,9 @@ def export_svg(layout, filepath, filename):
         f.write("</svg>")
 
 if __name__ == "__main__":
-    result = rust_core.compute_layout_dto()
-
     parser = argparse.ArgumentParser()
 
+    parser.add_argument("--file", type=str, default="graphs/graph.json", help="Path to the input graph JSON file (default: graphs/graph.json)")
     parser.add_argument("--path", type=str, default="results", help="Path to save the SVG file (default: results/)")
     parser.add_argument("--name", type=str, default="graph.svg", help="Name of the SVG file (default: graph.svg)")
     parser.add_argument("--evaluate", action="store_true", help="Evaluate the layout and print the score")
@@ -158,6 +157,8 @@ if __name__ == "__main__":
     
     if not os.path.exists(args.path):
         os.makedirs(args.path)
+
+    result = rust_core.compute_layout_dto(args.file)
 
     compute_layout(result)
     export_svg(result, filepath=args.path, filename=args.name)
